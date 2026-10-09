@@ -129,7 +129,7 @@
 
 ### 1. Прошивка MicroPython
 1. Зажмите кнопку **BOOT** на плате RP2350-PiZero и подключите к ПК по Type-C.  
-2. Скопируйте файл прошивки `WAVESHARE_RP2350_PIZERO.uf2` на появившийся диск `RPI-RP2`.  
+2. Скопируйте файл прошивки `WAVESHARE_RP2350_PIZERO.uf2` на появившийся диск `RPI-RP2` (в каталоге firmware...).  
 
 ### 2. Загрузка исходного кода
 1. Откройте **Thonny IDE** (выберите интерпретатор `MicroPython (Raspberry Pi Pico)`).  
