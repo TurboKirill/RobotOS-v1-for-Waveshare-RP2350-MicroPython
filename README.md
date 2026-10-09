@@ -113,6 +113,7 @@
 ├── app_files.py             # Файловый браузер
 ├── app_arkanoid.py          # Игра Arkanoid
 ├── app_snake.py             # Игра Cyber-Snake
+├── app_doom.py              # Игра Doom-lite
 ├── app_servo_test.py        # Калибровка и тест сервоприводов
 ├── app_settings.py          # Настройки (яркость, звук, RTC)
 ├── app_sleep.py             # Модуль энергосбережения
